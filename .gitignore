@@ -9,3 +9,11 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+
+
+# Data outputs
+data/processed/*.csv
+data/processed/*.pkl
+data/processed/*.png
+data/processed/*.json
+data/processed/*.txt
