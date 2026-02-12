@@ -1,11 +1,16 @@
-scapy
+# ============================================================================
+# NETCAUSALAI - CORE REQUIREMENTS (ONLY WHAT YOU NEED)
+# ============================================================================
+
 pandas
 numpy
+scapy
 tqdm
 networkx
-matplotlib
-pyvis
 scikit-learn
+hdbscan
+umap-learn
+matplotlib
 seaborn
-plotly
-requests
+joblib
+colorama
